@@ -123,4 +123,4 @@ GET /api/personas
 
 ---
 
-¡Explora el código, aprende y diviértete programando!
+¡Explora el código, aprende
